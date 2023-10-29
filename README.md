@@ -1,8 +1,15 @@
+[README1.md](https://github.com/AaryashDahal/AaryashDahal/files/13198346/README1.md)
 
 
-#Hi
-##I'm AARYASH form Nepal . I am a learner and currently learning these languages
-<link>https://fontawesome.com/icons/html5?f=brands&s=solid https://fontawesome.com/icons/css3-alt?f=brands&s=solid https://fontawesome.com/icons/js?f=brands&s=solid https://fontawesome.com/icons/react?f=brands&s=solid </link>
+
+
+## 🚀 HI
+I'm AARYASH form Nepal and I'm currently studying coding. Here are some languages that I will finish learning this year are HTML, CSS, JS, REACT.
+
+🧠 I'm currently learning  JS, REACT.
+
+## 🛠 Skills
+Javascript, HTML, CSS...
 
 These are the langusges which I am currently learning and some of my projects in comming days are-
 1. Personal portfolio.
