@@ -4,18 +4,14 @@
 
 
 ## 🚀 HI
-I'm AARYASH form Nepal and I'm currently studying coding. Here are some languages that I will finish learning this year  HTML, CSS, JS, REACT.
+I'm AARYASH form Nepal and I'm currently studying programming. I can built projects using Javascript, HTML and CSS
 
 🧠 I'm currently learning  REACT and TailWind.
 
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-These are the langusges which I am currently learning and some of my projects in comming days are-
+My projects in comming days are-
 1. Personal portfolio.
-2. Calculator
-3. Queue management system.
-4. Data management system.
+2. Queue management system.
+3. Data management system.
 
 
 
