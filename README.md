@@ -6,7 +6,7 @@
 ## 🚀 HI
 I'm AARYASH form Nepal and I'm currently studying coding. Here are some languages that I will finish learning this year  HTML, CSS, JS, REACT.
 
-🧠 I'm currently learning  JS, REACT.
+🧠 I'm currently learning  REACT and TailWind.
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
